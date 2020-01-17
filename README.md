@@ -1,3 +1,5 @@
+Here's how I got Laravel Airlock working with NuxtJS and the native Authentication module: [https://serversideup.net/using-laravel-airlock-with-nuxtjs/](https://serversideup.net/using-laravel-airlock-with-nuxtjs/)
+
 # AirlockNuxt
 
 > Testing Laravel Airlock with Nuxt
